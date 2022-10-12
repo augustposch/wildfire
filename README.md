@@ -1,5 +1,5 @@
 # wildfire
-This repo contains a paper that teammates and I wrote, called, "Machine learning for wildfire prediction from meteorological data in California and Nevada, USA". Below is the abstract.
+This repo contains a paper that teammates and I wrote, called "Machine learning for wildfire prediction from meteorological data in California and Nevada, USA". Below is the abstract.
 
 This project used meteorological data to predict
 wildfire ignitions, temporally within 10-day
