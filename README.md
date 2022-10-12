@@ -1,7 +1,7 @@
 # wildfire
 This repo contains a paper that teammates and I wrote, called "Machine learning for wildfire prediction from meteorological data in California and Nevada, USA". Below is the abstract.
 
-This project used meteorological data to predict
+*This project used meteorological data to predict
 wildfire ignitions, temporally within 10-day
 windows, spatially within roughly 25 km of
 weather locations in California and Nevada, USA,
@@ -26,4 +26,4 @@ found in previous work optimized for Yunnan
 Province, China. Going forward, this project
 could be adjusted to optimize for short-term
 predictions, or could be applied to other regions of
-the globe
+the globe.*
